@@ -1,0 +1,4 @@
+NPM packages for generating random qr-code
+
+1> inquirer
+2> qr-image
